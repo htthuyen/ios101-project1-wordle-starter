@@ -150,8 +150,8 @@
 		99CF2AA429B0156100B4973F /* DO_NOT_MODIFY */ = {
 			isa = PBXGroup;
 			children = (
-				996B84B2299990AA00133037 /* LaunchScreen.storyboard */,
 				996B84B0299990AA00133037 /* Assets.xcassets */,
+				996B84B2299990AA00133037 /* LaunchScreen.storyboard */,
 				996B84AD299990A900133037 /* Main.storyboard */,
 				996B84A7299990A900133037 /* AppDelegate.swift */,
 				99CF2AA929B0172800B4973F /* BoardController+Extensions.swift */,

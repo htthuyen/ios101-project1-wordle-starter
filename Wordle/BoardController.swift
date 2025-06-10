@@ -47,6 +47,7 @@ class BoardController: NSObject,
       // START YOUR CODE HERE
       // ...
       // END YOUR CODE HERE
+        cell.transform.scaledBy(x: 1.05, y: 1.05)
     }, completion: { finished in
       cell.transform = CGAffineTransformIdentity
     })
@@ -66,5 +67,7 @@ class BoardController: NSObject,
     // START YOUR CODE HERE
     // ...
     // END YOUR CODE HERE
+      cell.clearLetter()
+      cell.set(style: .initial)
   }
 }
