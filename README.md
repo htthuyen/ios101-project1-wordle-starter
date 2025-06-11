@@ -2,7 +2,7 @@
 
 Submitted by: **Huyen Huymh**
 
-**Name of your app** is an app that ... [TODO] 
+**Worldle** is an app that ask for your guess on a given secret word. You will have a limited number of chances to guess the correct word. With each guess, you'll receive clues that indicate which letters are included in the word and where they're located. You aim to use these clues to guess the secret word before running out of attempts.
 
 Time spent: **3** hours spent in total
 
@@ -10,29 +10,31 @@ Time spent: **3** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] App displays a keyboard on the screen
-- [ ] When tapping on the keyboard, a letter is shown or deleted (letter selected)
-- [ ] User can play a basic version of Wordle, with different goal words each time
+- [x] App displays a keyboard on the screen
+- [x] When tapping on the keyboard, a letter is shown or deleted (letter selected)
+- [x] User can play a basic version of Wordle, with different goal words each time
 
 The following **optional** features are implemented:
 
-- [ ] Improve and customize the user interface by adding a launchscreen and app icon
+- [x] Improve and customize the user interface by adding a launchscreen and app icon
 - [ ] Run the app on a device rather than in the simulator
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/a12d9a5623184928b4156dd6b8260209">
+    </a>
+    <a href="https://www.loom.com/share/a12d9a5623184928b4156dd6b8260209">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a12d9a5623184928b4156dd6b8260209-9171e3eccdb875c7-full-play.gif">
+    </a>
+  </div>
 
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I just started learning Swift and making iOS app. So, it took me some time to figure things out. Other than that, it is very fun and exciting learning experience.
 
 ## License
 
